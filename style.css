@@ -1,0 +1,31 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.container{
+    padding: 10px;
+    border:3px solid #6ecc5c;
+    width: 50%;
+    margin: auto;
+    background-color:lightgreen;
+}
+.container .input,.btn{
+    width: auto;
+    height: auto;
+}
+.container ul{
+    list-style: none;
+    padding: 0px;
+    text-decoration: none;
+}
+.container li{
+    color: green;
+}
+.container #error{
+    color: red;
+}
+.container li a{
+    float: right;
+    color: black;
+    text-decoration: none;
+}
